@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600409766 source:c:\users\training\desktop\ipaddress\ipaddress.cc
+	<string>
+	<iostream>
+	"ipaddress.h"
+
+1600409471 c:\users\training\desktop\ipaddress\ipaddress.h
+	<string>
+
+1600410968 source:c:\users\training\desktop\ipaddress\ipaddress_test.cc
+	"ipaddress.h"
+	<iostream>
+	<gtest/gtest.h>
+

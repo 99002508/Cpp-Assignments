@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600506013 source:c:\users\training\documents\assignments\ass1\ass1\image\image\image.cc
+	<string>
+	<iostream>
+	"image.h"
+
+1600505991 c:\users\training\documents\assignments\ass1\ass1\image\image\image.h
+	<string>
+
+1600506002 source:c:\users\training\documents\assignments\ass1\ass1\image\image\image_test.cc
+	"image.h"
+	<gtest/gtest.h>
+
+1600232064 source:c:\users\training\documents\assignments\ass1\ass1\image\image\main.cpp
+	<iostream>
+

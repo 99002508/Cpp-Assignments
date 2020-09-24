@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600408092 source:c:\users\training\desktop\set1a\color\color.cpp
+	<iostream>
+	"color.h"
+
+1600408218 c:\users\training\desktop\set1a\color\color.h
+	<iostream>
+
+1600408290 source:c:\users\training\desktop\set1a\color\main.cpp
+	<iostream>
+	"color.h"
+

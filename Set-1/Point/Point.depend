@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600411684 source:c:\users\training\desktop\set1a\point\main.cpp
+	<iostream>
+	"point.h"
+
+1600410757 source:c:\users\training\desktop\set1a\point\point.cpp
+	<iostream>
+	"point.h"
+	<cmath>
+
+1600412787 c:\users\training\desktop\set1a\point\point.h
+	<iostream>
+
