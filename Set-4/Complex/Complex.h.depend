@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1600663719 source:c:\users\training\desktop\21-09-20\complex.h\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1600660034 c:\users\training\desktop\21-09-20\complex.h\complex.h
+
+1600663607 source:c:\users\training\desktop\21-09-20\complex.h\complex_test.cpp
+	"Complex.h"
+	<gtest/gtest.h>
+
+1600663719 source:c:\users\training\desktop\21-09-20\complex\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1600660034 c:\users\training\desktop\21-09-20\complex\complex.h
+
